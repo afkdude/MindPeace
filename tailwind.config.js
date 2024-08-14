@@ -11,7 +11,7 @@ export default {
         'secondary': ["Syne", 'sans-serif'],
       },
       colors: {
-        'heroBg': '#0e1122',
+        'heroBg':'#0e1122',
         'para': 'rgba(0 0 0 /80)',
         'primary':'#06a055',
       }
